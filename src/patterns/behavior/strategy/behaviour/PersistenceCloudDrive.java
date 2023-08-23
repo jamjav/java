@@ -1,4 +1,4 @@
-package src.patterns.strategy.behaviour;
+package src.patterns.behavior.strategy.behaviour;
 
 public class PersistenceCloudDrive implements PersistenceStrategy{
     @Override

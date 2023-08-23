@@ -1,9 +1,9 @@
-package src.patterns.strategy;
+package src.patterns.behavior.strategy;
 
-import src.patterns.strategy.behaviour.PersistenceCloudDrive;
-import src.patterns.strategy.behaviour.PersistenceLocalHD;
-import src.patterns.strategy.behaviour.PersistenceStrategy;
-import src.patterns.strategy.model.File;
+import src.patterns.behavior.strategy.behaviour.PersistenceCloudDrive;
+import src.patterns.behavior.strategy.behaviour.PersistenceLocalHD;
+import src.patterns.behavior.strategy.behaviour.PersistenceStrategy;
+import src.patterns.behavior.strategy.model.File;
 
 public class strategyMain {
 

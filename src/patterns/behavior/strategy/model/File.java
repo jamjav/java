@@ -1,6 +1,6 @@
-package src.patterns.strategy.model;
+package src.patterns.behavior.strategy.model;
 
-import src.patterns.strategy.behaviour.PersistenceStrategy;
+import src.patterns.behavior.strategy.behaviour.PersistenceStrategy;
 
 public class File {
 
